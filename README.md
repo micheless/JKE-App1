@@ -6,3 +6,4 @@ Making change for JA-3 in branch JA-3
 Making change for JA-4 in branch JA-4
 Making change for JA-5 in branch JA-5
 Making change for JA-6 in branch JA-6
+Making change for JA-7 in branch JA-7
